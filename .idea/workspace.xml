@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbd9a4f8-d768-4aad-8987-75eaf023140f" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/qtool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/array.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant/constant.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/aes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/des.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/hmacSha1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/hmacSha256.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/md5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encrypt/sha256withrsa.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entitystruct/entitystruct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file/file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request/request.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/response/response.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/response/status.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/response/validation.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str/str.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/url/url.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
